@@ -17,8 +17,9 @@ Requirements:
 
 ---
 
-Model directory contains trained ORIS model
-Data directory contains filtered Twitter and Reddit data adapted from HuggingFace Datasets
+Model directory contains trained ORIS model.
+
+Data directory contains filtered Twitter and Reddit data adapted from HuggingFace Datasets.
 
 Original data: 
 * Twitter ([https://huggingface.co/datasets/dair-ai/emotion](https://huggingface.co/datasets/dair-ai/emotion))
