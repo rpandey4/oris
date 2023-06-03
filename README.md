@@ -16,15 +16,13 @@ Requirements:
 * tqdm ([https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm))
 
 ---
-Before running experiments, please load data and model:
 
-Datasets (HuggingFace): [(Twitter and Reddit)](https://gmuedu-my.sharepoint.com/:f:/g/personal/rpandey4_gmu_edu/EmRk6iPMklJGv1JmiRlAOK8Bh_o1B8-qj6uGwoDLJV8ZDA?e=sck4y9)
+Model directory contains trained ORIS model
+Data directory contains filtered Twitter and Reddit data adapted from HuggingFace Datasets
 
-Model: [ORIS (delta=8)](https://gmuedu-my.sharepoint.com/:f:/g/personal/rpandey4_gmu_edu/Ek6-2ZYHIK5FpFA8vBdion0B52Zra3u7Rp0W_zE7IE88sQ?e=Xkv8cY)
-
-Password: `cikm2023`
-
-`Store both data and model in the home directory`
+Original data: 
+* Twitter ([https://huggingface.co/datasets/dair-ai/emotion](https://huggingface.co/datasets/dair-ai/emotion))
+* Reddit ([https://huggingface.co/datasets/go_emotions](https://huggingface.co/datasets/go_emotions))
 
 ---
 Steps to replicate the experiments:
